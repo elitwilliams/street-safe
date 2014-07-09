@@ -1,0 +1,31 @@
+{% block content %}
+
+<h2>StreetSafe.co and Vision Zero NYC</h2>
+
+<p>
+
+The primary mission of government is to protect the public. New York’s families deserve and expect safe streets. But today in New York, approximately 4,000 New Yorkers are seriously injured and more than 250 are killed each year in traffic crashes. Being struck by a vehicle is the leading cause of injury-related death for children under 14, and the second leading cause for seniors. On average, vehicles seriously injure or kill a New Yorker every two hours.
+
+This status quo is unacceptable. The City of New York must no longer regard traffic crashes as mere “accidents,” but rather as preventable incidents that can be systematically addressed. No level of fatality on city streets is inevitable or acceptable. This Vision Zero Action Plan is the City's foundation for ending traffic deaths and injuries on our streets.
+
+The City will use every tool at its disposal to improve the safety of our streets. With this action plan, the City is making a bold new commitment to improve street safety in every neighborhood and in every borough – with expanded enforcement against dangerous moving violations like speeding and failing to yield to pedestrians, new street designs and configurations to improve safety, broad public outreach and communications, and a sweeping legislative agenda to increase penalties for dangerous drivers and give New York City control over the safety of our own streets.
+
+There is no silver bullet that will end traffic fatalities. But previous successes that have combined the efforts of people, their governments and private industries to save lives are not difficult to find. In 1985, our national rate of seatbelt use hovered at 20%. Thirty years later, a combination of stronger laws, enforcement, public education and automobile design changes have driven seatbelt use up to 88%. We must apply similar focus to the more complex equation of safety on city streets. New York is up to this challenge.
+
+Traffic fatalities in New York have indeed fallen significantly, from 701 in 1990, to 381 in 2000, to an all-time low of 249 in 2011. The city has become nationally and internationally recognized as a leading innovator in safe street designs. At locations where the New York City Department of Transportation has made major engineering changes since 2005, fatalities have decreased by 34%, twice the rate of improvement at other locations. But it is still not enough. We can, and must, do better.
+
+Making ours the world’s safest big city will require more than government policy
+and programs. It will take citizen action from the grassroots up. The emergence
+of new neighborhood-based traffic safety initiatives is an extremely hopeful
+sign that New York is already on the right track. The promise of Vision Zero
+will require constant input and feedback from citizens and civic
+organizations. It demands the participation by the State legislature and
+lawmakers, industries, companies and authorities that operate large numbers of
+vehicles. Vision Zero also needs each and every New Yorker to become aware of
+the new public discourse on street safety, to appreciate the consequences of
+careless and dangerous behavior and to do their part to lend civility and
+consideration to the daily life and rhythm on the streets of our city.
+
+</P>
+
+{% endblock %}
